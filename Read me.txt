@@ -1,0 +1,14 @@
+How to run this project
+1. Download the the zip file
+2. Extract the file and copy ciproject folder
+3.Paste inside root directory(for xampp xamp/htdocs, for wamp wampp/www,for lamp var/www/html)
+4. Open phpmyadmin (http://localhost/phpmyadmin)
+5. Create a database with name ciproject
+6. Import ciproject.sql file(given inside the zip package in sql file folder)
+7.Run the script http://localhost/ciproject 
+Credential for user panel :
+username  : info@phpgurukul.com
+Password : Test @12345 
+Credential for admin panel :
+username  : admin
+Password : Test @12345
